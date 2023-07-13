@@ -1,4 +1,9 @@
-
+<style>
+  body {
+    background-color: white;
+  }
+  
+</style>
 ### Hi there 👋, my name is Artur
 #### Junior developer 
 My strengths:
