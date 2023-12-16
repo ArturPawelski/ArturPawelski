@@ -4,8 +4,7 @@ My Best: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" targe
 I worked with: <br/>
   NextJs | ExpressJs | NestJs | C# | .NET | jQuery 
 
-- 🔭 I’m currently working on full-stack projects 
-- 🌱 I’m currently learning  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <br/> 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <br/> 
 
 
 
